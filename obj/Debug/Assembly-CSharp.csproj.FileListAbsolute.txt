@@ -1,0 +1,262 @@
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\nunit.framework.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEditor.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Purchasing.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.WebModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.Cecil.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.DataContract.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEditor.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.WebModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\nunit.framework.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Univer\komnata Отабек\komnata Отабек\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Univer\komnata Отабек\komnata Отабек\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Univer\komnata Отабек\komnata Отабек\obj\Debug\Assembly-CSharp.dll
+E:\Univer\komnata Отабек\komnata Отабек\obj\Debug\Assembly-CSharp.pdb
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\obj\Debug\Assembly-CSharp.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\obj\Debug\Assembly-CSharp.pdb
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\nunit.framework.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEditor.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.WebModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.Cecil.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.DataContract.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEditor.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.WebModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\nunit.framework.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Моя папка\Учеба\Второй семестр\Компьютерные мультимедийные системы\Курсовые\О\komnata Отабек\Temp\bin\Debug\UnityEngine.SpatialTracking.xml

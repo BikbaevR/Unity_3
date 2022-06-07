@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/komnata.unity
+  isLoaded: 1
+  isActive: 1
